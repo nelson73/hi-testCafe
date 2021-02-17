@@ -1,0 +1,14 @@
+{
+  "name": "hi-world",
+  "version": "1.0.0",
+  "description": "hellow world test cafe",
+  "main": "test.js",
+  "scripts": {
+    "test": "testcafe chromium test.js"
+  },
+  "author": "Nelson Concha",
+  "license": "ISC",
+  "devDependencies": {
+    "testcafe": "^1.11.0"
+  }
+}
